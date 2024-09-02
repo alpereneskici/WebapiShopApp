@@ -1,0 +1,17 @@
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\ShopApp.Application\bin\Debug\net8.0\ShopApp.Application.deps.json
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\ShopApp.Application\bin\Debug\net8.0\ShopApp.Application.dll
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\ShopApp.Application\bin\Debug\net8.0\ShopApp.Application.pdb
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\ShopApp.Application\bin\Debug\net8.0\ShopApp.Domain.dll
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\ShopApp.Application\bin\Debug\net8.0\shopapp.Resources.dll
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\ShopApp.Application\bin\Debug\net8.0\ShopApp.Domain.pdb
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\ShopApp.Application\bin\Debug\net8.0\shopapp.Resources.pdb
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\ShopApp.Application\obj\Debug\net8.0\ShopApp.Application.csproj.AssemblyReference.cache
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\ShopApp.Application\obj\Debug\net8.0\ShopApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\ShopApp.Application\obj\Debug\net8.0\ShopApp.Application.AssemblyInfoInputs.cache
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\ShopApp.Application\obj\Debug\net8.0\ShopApp.Application.AssemblyInfo.cs
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\ShopApp.Application\obj\Debug\net8.0\ShopApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\ShopApp.Application\obj\Debug\net8.0\ShopApp.Application.dll
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\ShopApp.Application\obj\Debug\net8.0\refint\ShopApp.Application.dll
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\ShopApp.Application\obj\Debug\net8.0\ShopApp.Application.pdb
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\ShopApp.Application\obj\Debug\net8.0\ref\ShopApp.Application.dll
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\ShopApp.Application\obj\Debug\net8.0\ShopApp..62D45E11.Up2Date

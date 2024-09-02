@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ShopApp.Application/1.0.0": {
+        "dependencies": {
+          "ShopApp.Domain": "1.0.0",
+          "ShopApp.Resources": "1.0.0"
+        },
+        "runtime": {
+          "ShopApp.Application.dll": {}
+        }
+      },
+      "ShopApp.Domain/1.0.0": {
+        "runtime": {
+          "ShopApp.Domain.dll": {}
+        }
+      },
+      "ShopApp.Resources/1.0.0": {
+        "runtime": {
+          "ShopApp.Resources.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopApp.Resources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

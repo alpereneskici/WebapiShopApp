@@ -1,0 +1,11 @@
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\shopapp.Resources\bin\Debug\net8.0\shopapp.Resources.deps.json
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\shopapp.Resources\bin\Debug\net8.0\shopapp.Resources.dll
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\shopapp.Resources\bin\Debug\net8.0\shopapp.Resources.pdb
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\shopapp.Resources\obj\Debug\net8.0\shopapp.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\shopapp.Resources\obj\Debug\net8.0\shopapp.Resources.AssemblyInfoInputs.cache
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\shopapp.Resources\obj\Debug\net8.0\shopapp.Resources.AssemblyInfo.cs
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\shopapp.Resources\obj\Debug\net8.0\shopapp.Resources.csproj.CoreCompileInputs.cache
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\shopapp.Resources\obj\Debug\net8.0\shopapp.Resources.dll
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\shopapp.Resources\obj\Debug\net8.0\refint\shopapp.Resources.dll
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\shopapp.Resources\obj\Debug\net8.0\shopapp.Resources.pdb
+C:\Users\alper\OneDrive\Desktop\WebapiShopApp\shopapp.Resources\obj\Debug\net8.0\ref\shopapp.Resources.dll

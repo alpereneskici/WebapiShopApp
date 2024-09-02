@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ShopApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ShopApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopApp.Domain.dll": {}
+        }
+      },
+      "ShopApp.Resources/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ShopApp.Resources.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopApp.Resources.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ShopApp.Domain/ShopApp.Domain.csproj",
+      "msbuildProject": "../ShopApp.Domain/ShopApp.Domain.csproj"
+    },
+    "ShopApp.Resources/1.0.0": {
+      "type": "project",
+      "path": "../ShopApp.Resources/ShopApp.Resources.csproj",
+      "msbuildProject": "../ShopApp.Resources/ShopApp.Resources.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ShopApp.Domain >= 1.0.0",
+      "ShopApp.Resources >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\alper\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\alper\\OneDrive\\Desktop\\WebapiShopApp\\ShopApp.Application\\ShopApp.Application.csproj",
+      "projectName": "ShopApp.Application",
+      "projectPath": "C:\\Users\\alper\\OneDrive\\Desktop\\WebapiShopApp\\ShopApp.Application\\ShopApp.Application.csproj",
+      "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alper\\OneDrive\\Desktop\\WebapiShopApp\\ShopApp.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\alper\\OneDrive\\Desktop\\WebapiShopApp\\ShopApp.Domain\\ShopApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\alper\\OneDrive\\Desktop\\WebapiShopApp\\ShopApp.Domain\\ShopApp.Domain.csproj"
+            },
+            "C:\\Users\\alper\\OneDrive\\Desktop\\WebapiShopApp\\ShopApp.Resources\\ShopApp.Resources.csproj": {
+              "projectPath": "C:\\Users\\alper\\OneDrive\\Desktop\\WebapiShopApp\\ShopApp.Resources\\ShopApp.Resources.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
